@@ -1,1 +1,16 @@
-/DataModel/
+/LogicalWeb/
+/BusinessLogical/
+/Application/
+/Facade/
+/workflow/
+/compositions/
+/entities/
+/DataLayer/
+/ApplicationImpl/
+/Services/
+/ServicesInterface/
+/Messages/
+/CrossCutting/
+/Security/
+/OperationalManagement/
+/Communication/
